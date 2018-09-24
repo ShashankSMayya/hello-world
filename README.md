@@ -1,2 +1,7 @@
 # hello-world
-Just another repository to understand Github.
+
+Hello Geeks!
+
+Just on my way to learn more about the coding and how stuff works .
+
+
